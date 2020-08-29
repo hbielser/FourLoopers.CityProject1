@@ -1,0 +1,57 @@
+
+Team: The Four-Loopers 
+
+Data Sources:
+County Health: for health outcomes
+Census - Income
+	People per household/kids 
+	Home ownership 
+	Marriage
+	Access? 
+Google API - parks, health care
+Health outcomes
+	- JWSF or CDC/WHO
+Weather - open weather API
+	- Binning for weather to get nice days, or break down per 
+
+
+Research Questions to Answer:
+Health Care Outcomes = 
+- weather covid dataset (average temp)
+- Income - 
+
+What effects preventable hospitalizations?
+- SDOH
+- Income Inequality
+- Access to exercise 
+- 
+What effects health care outcomes?
+	-  Does weather effect outcomes? Heat map
+	- Income? 
+	- Access to parks? 
+		○ Are health care centers positioned near
+		○ Do people have an environment that supports healthy lifestyles? 
+	- Access to healthcare?
+	- Household size? 
+	- Home ownership? 
+Does a certain weather type correlate to higher/lower income? 
+How does income relate to household size?
+
+Resources:
+https://www.kaggle.com/blitzr/movehub-city-rankings
+
+https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation
+
+
+Next steps:
+	1. Set up GitHub
+	2. Analyze data sources
+		a. How will get the data? CSV or API
+	3. What columns do we get? What will we join on? Zip? Metropolitan statistical area
+		a. Verify how each area is calculating their version of 'city'
+		b. What is the timeframe covered by the dataset? 
+	4. Join data sets to create our study dataset
+		a. Clean before or after? Identify NaaNs
+		b. Join and identify top and bottom ##
+	5. Run uses case correlations and graphs
+Each person takes a use case to run full analysis
