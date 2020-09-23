@@ -1,4 +1,4 @@
-##Summary
+## Summary
 Our motivation behind this project was to find out if certain environmental or social factors had an impact on a county's fair health score. According to countyhealthrankings.org, our main source of data for this project, they say the "Poor or Fair Health measures the percentage of adults in a county who consider themselves to be in poor or fair health". We decided to take our backgrounds and interests into account for how we were going to narrow down our quesitions to ultimately come up with the hypothesis: If a county has poor socioeconomic factors, then the poor or fair health percentage will be greater than counties with more favorable socioeconomic factors.
 
 We asked these 3 questions and recieved the followed results:
@@ -22,6 +22,6 @@ We asked these 3 questions and recieved the followed results:
 
 Overall we found 3 insights that we hope to look into in the future:
 
-#Poor health is concentrated in southern states 
-#There is a weak correlation between fair health and the income ratio by county (.286)
-#What is the prevalence of fast food and unheatlhy food options by county and why is there a moderate correlation between the food deprivation index and the poor and fair health percentage?
+# Poor health is concentrated in southern states 
+# There is a weak correlation between fair health and the income ratio by county (.286)
+# What is the prevalence of fast food and unheatlhy food options by county and why is there a moderate correlation between the food deprivation index and the poor and fair health percentage?
