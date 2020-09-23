@@ -22,6 +22,6 @@ We asked these 3 questions and recieved the followed results:
 
 Overall we found 3 insights that we hope to look into in the future:
 
-# Poor health is concentrated in southern states 
-# There is a weak correlation between fair health and the income ratio by county (.286)
-# What is the prevalence of fast food and unheatlhy food options by county and why is there a moderate correlation between the food deprivation index and the poor and fair health percentage?
+#### Poor health is concentrated in southern states 
+#### There is a weak correlation between fair health and the income ratio by county (.286)
+##### What is the prevalence of fast food and unheatlhy food options by county and why is there a moderate correlation between the food deprivation index and the poor and fair health percentage?
