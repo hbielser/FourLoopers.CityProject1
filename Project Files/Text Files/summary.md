@@ -20,7 +20,7 @@ We asked these 3 questions and recieved the followed results:
 ![Fair Health & Physically Unhealthy.png](/Images/Fair Health & Physically Unhealthy.png)
 
 
-Overall we found 3 insights that we hope to look into in the future:
+## Overall we found 3 insights that we hope to look into in the future:
 
 #### 1. Poor health is concentrated in southern states 
 #### 2. There is a weak correlation between fair health and the income ratio by county (.286)
