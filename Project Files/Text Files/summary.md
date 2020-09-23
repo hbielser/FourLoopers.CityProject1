@@ -15,7 +15,7 @@ We asked these 3 questions and recieved the followed results:
   ![Fair Health & Drinking.png](/Images/Fair Health & Drinking.png)
  
 ## What is the correlation between fair health percentage and physical activity?
-  - There was a strong correlation between being physically unhealthy and the poor and fair health percentage. As every physician and physical education teacher has engrained in us since elementary school, being physically unhealthy does have a negative impact on our health which is shown in the correlation between the physically unhealthy and poor and fair health percentage. We did further find that mental unhealthiness also had a strong correlation with the poor or fair health index.
+  - There was a strong correlation between being physically unhealthy and the poor and fair health percentage. As every physician and physical education teacher has engrained in us since elementary school, being physically unhealthy does have a negative impact on our health which is shown in the correlation between the physically unhealthy and poor and fair health percentage. We did further find that mental unhealthiness also had a strong correlation with the poor or fair health percentage.
 
 ![Fair Health & Physically Unhealthy.png](/Images/Fair Health & Physically Unhealthy.png)
 
